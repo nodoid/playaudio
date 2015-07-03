@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="PlayAudio/PlayAudio.iOS/PlayAudio.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayAudio/PlayAudio.iOS/PlayAudio_iOS.cs">
+    <Files>
+      <File FileName="PlayAudio/PlayAudio.Droid/PlayAudio.cs" Line="6" Column="1" />
+      <File FileName="PlayAudio/PlayAudio.iOS/PlayAudio_iOS.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
